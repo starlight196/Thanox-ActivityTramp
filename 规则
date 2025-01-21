@@ -1,0 +1,62 @@
+[
+  {
+    "from": {
+      "mClass": "com.baidu.netdisk.ui.Navigate",
+      "mPackage": "com.baidu.netdisk"
+    },
+    "to": {
+      "mClass": "com.baidu.netdisk.ui.MainActivity",
+      "mPackage": "com.baidu.netdisk"
+    }
+  },
+  {
+    "from": {
+      "mClass": "com.cainiao.wireless.homepage.view.activity.AdsActivity",
+      "mPackage": "com.cainiao.wireless"
+    },
+    "to": {
+      "mClass": "com.cainiao.wireless.homepage.view.activity.HomePageActivity",
+      "mPackage": "com.cainiao.wireless"
+    }
+  },
+  {
+    "from": {
+      "mClass": "com.xiachufang.startpage.ui.StartPageActivity",
+      "mPackage": "com.xiachufang"
+    },
+    "to": {
+      "mClass": "com.xiachufang.activity.home.HomeActivity",
+      "mPackage": "com.xiachufang"
+    }
+  },
+  {
+    "from": {
+      "mClass": "com.xiaomi.shop.activity.MainTabActivity",
+      "mPackage": "com.xiaomi.shop"
+    },
+    "to": {
+      "mClass": "com.xiaomi.shop2.activity.MainActivity",
+      "mPackage": "com.xiaomi.shop"
+    }
+  },
+  {
+    "from": {
+      "mClass": "com.evs.echarge.dev.ui.advertisement.SplashActivity",
+      "mPackage": "com.sgcc.evs.echarge"
+    },
+    "to": {
+      "mClass": "com.evs.echarge.dev.ui.MainActivity",
+      "mPackage": "com.sgcc.evs.echarge"
+    }
+  },
+  {
+    "from": {
+      "mClass": "com.android.module.app.ui.start.ABenchMarkStart",
+      "mPackage": "com.antutu.ABenchMark"
+    },
+    "to": {
+      "mClass": "com.android.module.app.ui.home.activity.MainActivity",
+      "mPackage": "com.antutu.ABenchMark"
+    }
+  }
+]
